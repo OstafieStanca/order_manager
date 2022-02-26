@@ -1,0 +1,5 @@
+Bill:
+Client Daniel has placed successfully the order with id 7
+Product Foarfeca has the price = 7
+Order information : Foarfeca  *  10
+Total price = 70
